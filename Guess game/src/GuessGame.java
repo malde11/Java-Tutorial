@@ -2,7 +2,7 @@ public class GuessGame {
 
     Player p1;
     Player p2;
-    PLayer p3;
+    Player p3;
 
 
     public void startGame() {
@@ -67,7 +67,7 @@ public class GuessGame {
 
 
         }
-        
+
 
     }
 
