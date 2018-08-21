@@ -7,9 +7,7 @@ public class GameStarter {
         GuessGame game = new GuessGame();
         game.startGame();
 
-
     }
-
-
+    
 
 }
