@@ -58,6 +58,8 @@ public class GuessGame {
                 System.out.println("Spieler eins hat richtig geraten? " + p1isRight );
                 System.out.println("Spieler zwei hat richtig geraten? " + p2isRight );
                 System.out.println("Spieler drei hat richtig geraten? " + p3isRight );
+                System.out.println("Das Spiel ist aus!!");
+                break;
 
             } else {
 
