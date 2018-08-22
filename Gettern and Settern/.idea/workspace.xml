@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a1913df-7f04-49b2-98f0-6ec3d8d85f93" name="Default Changelist" comment="" />
+    <list default="true" id="c889660a-6036-4d06-9827-8aa2f9ccef6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoodDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoodDogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods and Instanzvariablen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods and Instanzvariablen/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,11 +15,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1377717888">
+    <session id="1794044454">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
@@ -30,12 +34,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="350" />
+          <entry key="java" value="357" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="350" />
+          <entry key="JAVA" value="357" />
         </counts>
       </usages-collector>
     </session>
@@ -43,19 +47,25 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dog.java">
+        <entry file="file://$PROJECT_DIR$/src/GoodDog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#80#81#0" expanded="true" />
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DogTest.java">
+        <entry file="file://$PROJECT_DIR$/src/GoodDogTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            <state relative-caret-position="195">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -75,8 +85,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Dog.java" />
-        <option value="$PROJECT_DIR$/src/DogTest.java" />
+        <option value="$PROJECT_DIR$/src/GoodDog.java" />
+        <option value="$PROJECT_DIR$/src/GoodDogTest.java" />
       </list>
     </option>
   </component>
@@ -93,28 +103,23 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Methods and Instanzvariablen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Methods and Instanzvariablen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Methods and Instanzvariablen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Methods and Instanzvariablen" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Gettern and Settern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gettern and Settern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534899191911" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534901457467" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -129,16 +134,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DogTest" />
-      <module name="Methods and Instanzvariablen" />
+    <configuration name="GoodDogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GoodDogTest" />
+      <module name="Gettern and Settern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DogTest" />
+        <item itemvalue="Application.GoodDogTest" />
       </list>
     </recent_temporary>
   </component>
@@ -147,16 +152,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7a1913df-7f04-49b2-98f0-6ec3d8d85f93" name="Default Changelist" comment="" />
-      <created>1534898656753</created>
+      <changelist id="c889660a-6036-4d06-9827-8aa2f9ccef6a" name="Default Changelist" comment="" />
+      <created>1534901010316</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1534898656753</updated>
+      <updated>1534901010316</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="2560" height="1440" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -168,10 +174,9 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32927758" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -190,17 +195,23 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/GoodDog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DogTest.java">
+    <entry file="file://$PROJECT_DIR$/src/GoodDogTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="195">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
         </state>
       </provider>
     </entry>
