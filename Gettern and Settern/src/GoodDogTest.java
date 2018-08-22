@@ -1,4 +1,20 @@
-package PACKAGE_NAME;
-
 public class GoodDogTest {
+
+    public static void main(String[] args) {
+
+        GoodDog one = new GoodDog();
+        one.setSize(70);
+        GoodDog two = new GoodDog();
+        two.setSize(8);
+
+        System.out.println("Hund eins: " + one.getSize() );
+        System.out.println("Hund zwei: " + two.getSize() );
+
+        one.bark();
+        two.bark();
+
+
+    }
+
+
 }
